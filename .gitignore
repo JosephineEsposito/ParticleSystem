@@ -399,3 +399,33 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+.exe
+.dll
+.obj
+.lib
+.pdb
+
+/build/
+/bin/
+/Debug/
+/Release/
+/x64/
+.vs/
+.vscode/
+*.log
+*.tmp
+*.cache
+*.user
+node_modules/
+vendor/
+
+bin/
+/bin-int/
+bin-int/
+
+*.sln
+*.vcxproj
+*.csproj
+*.vbproj
+*.fsproj
